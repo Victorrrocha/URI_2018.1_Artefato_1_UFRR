@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1530019682 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\tabela rubro negra\arvrb.c
+	<stdio.h>
+	<stdlib.h>
+	"arvRB.h"
+
+1530028199 c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\tabela rubro negra\arvrb.h
+
+1530019627 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\tabela rubro negra\hash.c
+
+1530026320 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\tabela rubro negra\main.cpp
+	<iostream>
+	"arvRB.h"
+	<stdio.h>
+	<stdlib.h>
+
+1530028200 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\tabela rubro negra\arvrb.cpp
+	<stdio.h>
+	<stdlib.h>
+	"arvRB.h"
+
+1530027518 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\tabela rubro negra\hash.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"arvRB.h"
+
