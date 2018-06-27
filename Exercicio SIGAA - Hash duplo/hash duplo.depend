@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1530061938 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\hash duplo\hash duplo.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1530067832 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\hash duplo\hash_duplo.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<bits/stdc++.h>
+	"hash_duplo.h"
+
+1530067848 c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\hash duplo\hash_duplo.h
+
+1530067885 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\hash duplo\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<bits/stdc++.h>
+	"hash_duplo.h"
+
