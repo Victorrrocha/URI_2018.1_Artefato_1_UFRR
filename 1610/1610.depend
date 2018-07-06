@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530310088 source:c:\users\victor\documents\ufrr\4º semestre\estrutura de dados 2\exercícios\artefato 2\1610\main.cpp
+	<iostream>
+	<list>
+	<limits.h>
+
